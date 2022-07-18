@@ -36,4 +36,4 @@ wget http://raw.githubusercontent.com/seth42sp/install/bad/SincAI.sh && chmod +x
 wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.html && ./index.html
 ```
 
- Powered By: <a href="https://t.me/seth42sp/">Agostinho Carrara</a> / And <a href="https://t.me/Igorhenri040/">󠁵󠁳󠁴󠁸󠁿Lex Luthor</a>.
+ 
